@@ -1,0 +1,13 @@
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.exe
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.deps.json
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.runtimeconfig.json
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.runtimeconfig.dev.json
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.dll
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.pdb
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.csprojAssemblyReference.cache
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.AssemblyInfoInputs.cache
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.AssemblyInfo.cs
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.csproj.CoreCompileInputs.cache
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.dll
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.pdb
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.genruntimeconfig.cache
